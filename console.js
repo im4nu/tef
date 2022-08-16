@@ -1,4 +1,5 @@
-ScrollReveal().reveal('.text-js' , { delay: 200 });
+ScrollReveal().reveal('.container' , { delay: 200 });
+
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
